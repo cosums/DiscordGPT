@@ -46,4 +46,6 @@ py bot.py
 # History
 
 This was a project originally started in around 2022, when I wanted to try and create something to integrate with AI. After originally trying to make it with C# (my most comfortable language), I later shifted over to python due to better libraries and ease of use. 
-I also use a different version of this bot to watch my YouTube and Twitch channels and send notifications to specific channels in discord servers, though this functionality has been cut since it is unlikely to be useful to someone wanting a Discord bot.
+
+This project was retired due to my growing dislike of large AI models and their impact on the environment. While the technology is fascinating and fun to play with, I do not wish to continue supporting the massive LLMs like ChatGPT or Claude. For a more mature version of this project using local LLMs that remain completely on the host machine, see the repo LavaCake.
+Of course, local LLMs are still comprised of incomprehensible quantities of stolen data, and still took a massive amount of energy to train. I am sort of... settling for it I suppose. It is not perfectly ethical, but I have taken a step back from the edge.
